@@ -42,12 +42,12 @@ Cross-browser and adaptive layout
 Solved 200+ algorithmic tasks
 
 
-\
+ \
 > I am a self-taught front-end developer looking for new professional opportunities. 
 > Having of good knowledge of JavaScript, Typescript, React, HTML, CSS, Preprocessor. 
 > I understand SEO, SMM and Google AdSense.
 >
-\
+ \
 
 
 
