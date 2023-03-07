@@ -9,47 +9,44 @@ Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
    - [email](mailto:ernesto.fernandez.job@gmail.com)
    - [gitHub](https://github.com/ErnestoFernandezUA)
    - [linkedin](https://www.linkedin.com/in/ernesto-fernandez-15699714a/)
-   - [telegram](https://t.me/ernestofernandez)
+   - [telegram](https://t.me/ernestofernandez)  
 
 ## Hard skills
-
+---
 **Education:** Master’s Degree in Math, Taras Shevchenko National University of Kyiv\
 **English:** upper-intermediate B2\
 **UKR/RUS:** native
 
 ### Stack
-**JavaScript:**
-(ES2015 - 2019), TypeScript, Jest
-React (Class/Hooks/Redux/Thunk/Toolkit/Saga)
-SOLID, FSD
+**JavaScript:**  
+`(ES2015 - 2019)`, `TypeScript`, `Jest`
+`React(Class/Hooks/Redux/Thunk/Toolkit/Saga)`
+`SOLID`, `FSD`
 
-**Layout:** 
-HTML5, CSS3, SASS(SCSS)
-Tailwind, Material-UI, Styled-components, Bootstrap
+**Layout:**  
+`HTML5, CSS3, SASS(SCSS)`
+`Tailwind, Material-UI, Styled-components, Bootstrap`
 
-**Tools:** 
-Figma, REST API, Git, Photoshop, NPM, Eslint 
-VS Code, Chrome Developer Tools (incl. React)
-Webpack
-Windows, macOS, Unix
-Adobe Photoshop/Illustrator/3DMax
+**Tools:**  
+`Figma, REST API, Git, Photoshop, NPM, Eslint`  
+`VS Code, Chrome Developer Tools (incl. React)`  
+`Webpack, Windows, macOS, Unix`
+`Adobe Photoshop/Illustrator/3DMax`
 
-**Methodologies:**
-Pixel-perfect, BEM,
-Cross-browser and adaptive layout
+**Methodologies:**  
+`Pixel-perfect, BEM,`
+`Cross-browser and adaptive layout`
 
-**Algorithms:**
-Solved 200+ algorithmic tasks
+**Algorithms:**  
+`Solved 200+ algorithmic tasks`
 
 
- \
-> I am a self-taught front-end developer looking for new professional opportunities. 
+> _I am a self-taught front-end developer looking for new professional opportunities. 
 > Having of good knowledge of JavaScript, Typescript, React, HTML, CSS, Preprocessor. 
-> I understand SEO, SMM and Google AdSense.
->
- \
+> I understand SEO, SMM and Google AdSense._
 
 
+---
 
 ## Selected Work History
 
@@ -77,11 +74,11 @@ Responsibilities: Client service, Media buying, Media research, Out-of-home adve
 Among clients were: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods.
 
 
-> My goal is to improve every day. I am very organized, responsible, hard-working, punctual,
+> _My goal is to improve every day. I am very organized, responsible, hard-working, punctual,
 > honest, sociable, and able to work as a team person. Believe my Upper-Intermediate English
 > and technical education background will help me to bring significant impact on projects.
 > Furthermore, I quickly learn new information and easily adapt to any changes or
-> requirements at work.
+> requirements at work._
 
 
 ## Pet Projects
