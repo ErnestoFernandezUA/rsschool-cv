@@ -92,21 +92,21 @@ Stack: TypeScript, React, Saga, Redux, toolkit, persist, axios, react-router-dom
 [Demo](https://ernestofernandezua.github.io/spa_react_styled-components/)
 [Code](https://github.com/ErnestoFernandezUA/spa_react_styled-components)
 Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components
-![photo_2023-02-19_15-42-36.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8fec0216-fc4f-4a38-958a-8652114dbbd7/photo_2023-02-19_15-42-36.jpg)
+![photo_2023-02-19_15-42-36.jpg](https://i.ibb.co/GfDg66H/photo-2023-02-19-15-42-36.jpg)
 
 ### Form catch errors
 
-[Demo](https://ernestofernandezua.github.io/react__test-scelty/)
-[Code](https://github.com/ErnestoFernandezUA/react__test-scelty)
-Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios
-![photo_2023-02-19_15-43-35.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/af15ec86-3240-4cb6-9ea9-ed67ff1a6f64/photo_2023-02-19_15-43-35.jpg)
+[Demo](https://ernestofernandezua.github.io/react__test-scelty/)\
+[Code](https://github.com/ErnestoFernandezUA/react__test-scelty)\
+Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios\
+![photo_2023-02-19_15-43-35.jpg](https://i.ibb.co/BfMt6hx/photo-2023-02-19-15-43-35.jpg)
 
 ### Test project Get-Post
 
-[Demo](https://ernestofernandezua.github.io/react_test-project-post-get-token/)
-[Code](https://github.com/ErnestoFernandezUA/react_test-project-post-get-token)
-Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios
-![photo_2023-02-19_15-51-29.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd303d17-9848-4d25-a265-63431355a772/photo_2023-02-19_15-51-29.jpg)
+[Demo](https://ernestofernandezua.github.io/react_test-project-post-get-token/)\
+[Code](https://github.com/ErnestoFernandezUA/react_test-project-post-get-token)\
+Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios\
+![photo_2023-02-19_15-51-29.jpg](https://i.ibb.co/J3XfXJH/photo-2023-02-19-15-51-29.jpg)
 
 ### Responsive Layout Eco Landing
 [Demo](https://ernestofernandezua.github.io/eco-landing/)
