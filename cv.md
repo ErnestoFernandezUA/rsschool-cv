@@ -37,12 +37,11 @@ Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
 `Cross-browser and adaptive layout`
 
 **Algorithms:**  
-`Solved 200+ algorithmic tasks`
+`Solved 200+ algorithmic tasks`  
 
-
-> _I am a self-taught front-end developer looking for new professional opportunities. 
-> Having of good knowledge of JavaScript, Typescript, React, HTML, CSS, Preprocessor. 
-> I understand SEO, SMM and Google AdSense._
+  > _I am a self-taught front-end developer looking for new professional opportunities. 
+  > Having of good knowledge of JavaScript, Typescript, React, HTML, CSS, Preprocessor. 
+  > I understand SEO, SMM and Google AdSense._
 
 
 ---
