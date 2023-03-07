@@ -74,12 +74,11 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
 
 ### Calendar
 
-   [Demo](https://ernestofernandezua.github.io/react_calendar/)
-   [Code](https://github.com/ErnestoFernandezUA/react_calendar)
-   [Loom](https://www.loom.com/share/a541611e36c04e469fd4b07c64c8a603)
-   Stack: TypeScript, React, Redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components
-
-![calendar_image](https://ibb.co/QYrLP21)
+   [Demo](https://ernestofernandezua.github.io/react_calendar/)\
+   [Code](https://github.com/ErnestoFernandezUA/react_calendar)\
+   [Loom](https://www.loom.com/share/a541611e36c04e469fd4b07c64c8a603)\
+   Stack: TypeScript, React, Redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components\
+    ![Image_calendar](https://ibb.co/QYrLP21)
 
 ### Shop with React Saga
 [Demo](https://ernestofernandezua.github.io/REACT_KITGLOBAL_TESTING_TASK/)
