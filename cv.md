@@ -34,7 +34,7 @@ Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
 `Adobe Photoshop/Illustrator/3DMax`
 
 **Methodologies:**  
-`Pixel-perfect, BEM,`
+`Pixel-perfect`, `BEM`,
 `Cross-browser and adaptive layout`
 
 **Algorithms:**  
