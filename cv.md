@@ -109,9 +109,9 @@ Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-do
 ![Image_get_post](https://i.ibb.co/Tt3Q0TQ/photo-2023-02-19-15-51-29.jpg)
 
 ### Responsive Layout Eco Landing
-[Demo](https://ernestofernandezua.github.io/eco-landing/)
-[Code](https://github.com/ErnestoFernandezUA/eco-landing)
-Stack: HTML, SCSS, BEM
+[Demo](https://ernestofernandezua.github.io/eco-landing/)\
+[Code](https://github.com/ErnestoFernandezUA/eco-landing)\
+Stack: HTML, SCSS, BEM\
 ![Image_eco](https://i.ibb.co/x2Fk8Bg/photo-2023-02-19-15-55-40.jpg)
 
 ##  Achievements
