@@ -13,11 +13,11 @@ Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
 
 ## Hard skills
 
-**Education: Master’s Degree in Math, Taras Shevchenko National University of Kyiv**
++**Education: Master’s Degree in Math, Taras Shevchenko National University of Kyiv**
 
-**English: upper-intermediate B2**
++**English: upper-intermediate B2**
 
-**UKR/RUS: native**
++**UKR/RUS: native**
 
 JavaScript (ES2015 - 2019) 
 TypeScript, Jest
@@ -130,7 +130,7 @@ Stack: HTML, SCSS, BEM
 - Climbing (Elbrus 2007)
 
 
->>**“I’m available for interesting projects. See me in action.”**
+>**“I’m available for interesting projects. See me in action.”**
 
 
 [send me email](mailto:ernesto.fernandez.job@gmail.com) 
