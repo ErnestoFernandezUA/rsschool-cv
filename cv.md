@@ -130,20 +130,14 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
 - ![Image_get_post](https://i.ibb.co/Tt3Q0TQ/photo-2023-02-19-15-51-29.jpg)
 </details>
 
-<details><summary></summary><br/>
+<details><summary>Responsive Layout Eco Landing</summary><br/>
 
-
-<br/>
-
-
-</details>
-
-<details><summary></summary><br/>
-
+- [Demo](https://ernestofernandezua.github.io/eco-landing/)\
+- [Code](https://github.com/ErnestoFernandezUA/eco-landing)\
+- Stack: HTML, SCSS, BEM\
 
 <br/>
-
-
+- ![Image_eco](https://i.ibb.co/x2Fk8Bg/photo-2023-02-19-15-55-40.jpg)
 </details>
 
 <!-- ### Calendar
@@ -173,17 +167,17 @@ Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-do
 Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios\
 ![Image_form_catch_errors](https://i.ibb.co/BfMt6hx/photo-2023-02-19-15-43-35.jpg) -->
 
-### Test project Get-Post
+<!-- ### Test project Get-Post
 [Demo](https://ernestofernandezua.github.io/react_test-project-post-get-token/)\
 [Code](https://github.com/ErnestoFernandezUA/react_test-project-post-get-token)\
 Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios\
-![Image_get_post](https://i.ibb.co/Tt3Q0TQ/photo-2023-02-19-15-51-29.jpg)
+![Image_get_post](https://i.ibb.co/Tt3Q0TQ/photo-2023-02-19-15-51-29.jpg) -->
 
-### Responsive Layout Eco Landing
+<!-- ### Responsive Layout Eco Landing
 [Demo](https://ernestofernandezua.github.io/eco-landing/)\
 [Code](https://github.com/ErnestoFernandezUA/eco-landing)\
 Stack: HTML, SCSS, BEM\
-![Image_eco](https://i.ibb.co/x2Fk8Bg/photo-2023-02-19-15-55-40.jpg)
+![Image_eco](https://i.ibb.co/x2Fk8Bg/photo-2023-02-19-15-55-40.jpg) -->
 
 [========]
 
