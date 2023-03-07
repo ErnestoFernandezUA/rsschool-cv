@@ -17,7 +17,6 @@ Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
 **English:** upper-intermediate B2\
 **UKR/RUS:** native
 
-### Stack
 **JavaScript:**  
 `(ES2015 - 2019)`, `TypeScript`, `Jest`
 `React(Class/Hooks/Redux/Thunk/Toolkit/Saga)`
