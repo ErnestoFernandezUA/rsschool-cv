@@ -24,13 +24,13 @@ Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
 `SOLID`, `FSD`
 
 **Layout:**  
-`HTML5, CSS3, SASS(SCSS)`
-`Tailwind, Material-UI, Styled-components, Bootstrap`
+`HTML5`, `CSS3`, `SASS(SCSS)`
+`Tailwind`, `Material-UI`, `Styled-components`, `Bootstrap`
 
 **Tools:**  
-`Figma, REST API, Git, Photoshop, NPM, Eslint`  
-`VS Code, Chrome Developer Tools (incl. React)`  
-`Webpack, Windows, macOS, Unix`
+`Figma`, `REST API`, `Git`, `NPM`, `Eslint`  
+`VS Code`, `Chrome Developer Tools (incl. React)`  
+`Webpack`, `Windows`, `macOS`, `Unix`
 `Adobe Photoshop/Illustrator/3DMax`
 
 **Methodologies:**  
