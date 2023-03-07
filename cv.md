@@ -95,6 +95,7 @@ Stack: TypeScript, React, Redux, toolkit, thunk, persist, axios, react-router-do
 - [Code](https://github.com/ErnestoFernandezUA/REACT_KITGLOBAL_TESTING_TASK)
 - Stack: TypeScript, React, Saga, Redux, toolkit, persist, axios, react-router-dom, axios, styled-components
 <br/>
+
 - ![Image_Saga](https://i.ibb.co/ZH1dDqC/photo-2023-03-01-07-56-45.jpg)
 </details>
 
@@ -103,7 +104,7 @@ Stack: TypeScript, React, Redux, toolkit, thunk, persist, axios, react-router-do
 [Demo](https://ernestofernandezua.github.io/spa_react_styled-components/)
 [Code](https://github.com/ErnestoFernandezUA/spa_react_styled-components)
 Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components
-<br/>
+
 ![Image_flags](https://i.ibb.co/dtrvYLY/photo-2023-02-19-15-42-36.jpg)
 </details>
 
