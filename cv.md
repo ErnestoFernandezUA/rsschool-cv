@@ -70,36 +70,43 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
 > requirements at work._
 
 
-## Pet Projects
+## Pet Projects  
 
-### Calendar
+<details>
+<summary>Calendar</summary>
+<br>
+[Demo](https://ernestofernandezua.github.io/react_calendar/)\
+[Code](https://github.com/ErnestoFernandezUA/react_calendar)\
+[Loom](https://www.loom.com/share/a541611e36c04e469fd4b07c64c8a603)\
+Stack: TypeScript, React, Redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components\
+![Image_calendar](https://i.ibb.co/VVxZjBX/photo-2023-02-19-15-31-07.jpg)
+</details>
 
-   [Demo](https://ernestofernandezua.github.io/react_calendar/)\
-   [Code](https://github.com/ErnestoFernandezUA/react_calendar)\
-   [Loom](https://www.loom.com/share/a541611e36c04e469fd4b07c64c8a603)\
-   Stack: TypeScript, React, Redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components\
-    ![Image_calendar](https://i.ibb.co/VVxZjBX/photo-2023-02-19-15-31-07.jpg)
 
-### Shop with React Saga
+<details>
+<summary>Shop with React Saga</summary>
+<br>
 [Demo](https://ernestofernandezua.github.io/REACT_KITGLOBAL_TESTING_TASK/)\
 [Code](https://github.com/ErnestoFernandezUA/REACT_KITGLOBAL_TESTING_TASK)\
 Stack: TypeScript, React, Saga, Redux, toolkit, persist, axios, react-router-dom, axios, styled-components\
-
 ![Image_Saga](https://i.ibb.co/ZH1dDqC/photo-2023-03-01-07-56-45.jpg)
+</details>
+
+   
 
 ### Flags
 
-[Demo](https://ernestofernandezua.github.io/spa_react_styled-components/)
-[Code](https://github.com/ErnestoFernandezUA/spa_react_styled-components)
-Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components
-![Image_flags](https://i.ibb.co/dtrvYLY/photo-2023-02-19-15-42-36.jpg)
+    [Demo](https://ernestofernandezua.github.io/spa_react_styled-components/)
+    [Code](https://github.com/ErnestoFernandezUA/spa_react_styled-components)
+    Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components
+    ![Image_flags](https://i.ibb.co/dtrvYLY/photo-2023-02-19-15-42-36.jpg)
 
 ### Form catch errors
 
-[Demo](https://ernestofernandezua.github.io/react__test-scelty/)\
-[Code](https://github.com/ErnestoFernandezUA/react__test-scelty)\
-Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios\
-![Image_form_catch_errors](https://i.ibb.co/BfMt6hx/photo-2023-02-19-15-43-35.jpg)
+    [Demo](https://ernestofernandezua.github.io/react__test-scelty/)\
+    [Code](https://github.com/ErnestoFernandezUA/react__test-scelty)\
+    Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios\
+    ![Image_form_catch_errors](https://i.ibb.co/BfMt6hx/photo-2023-02-19-15-43-35.jpg)
 
 ### Test project Get-Post
 
