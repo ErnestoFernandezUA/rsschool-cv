@@ -85,33 +85,34 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
 [Code](https://github.com/ErnestoFernandezUA/REACT_KITGLOBAL_TESTING_TASK)\
 Stack: TypeScript, React, Saga, Redux, toolkit, persist, axios, react-router-dom, axios, styled-components\
 
-![photo_2023-03-01_07-56-45.jpg](https://i.ibb.co/ZH1dDqC/photo-2023-03-01-07-56-45.jpg)
+![Image_Saga](https://i.ibb.co/ZH1dDqC/photo-2023-03-01-07-56-45.jpg)
 
 ### Flags
 
 [Demo](https://ernestofernandezua.github.io/spa_react_styled-components/)
 [Code](https://github.com/ErnestoFernandezUA/spa_react_styled-components)
 Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components
-![photo_2023-02-19_15-42-36.jpg](https://i.ibb.co/GfDg66H/photo-2023-02-19-15-42-36.jpg)
+![Image_flags](https://i.ibb.co/GfDg66H/photo-2023-02-19-15-42-36.jpg)
 
 ### Form catch errors
 
 [Demo](https://ernestofernandezua.github.io/react__test-scelty/)\
 [Code](https://github.com/ErnestoFernandezUA/react__test-scelty)\
 Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios\
-![photo_2023-02-19_15-43-35.jpg](https://i.ibb.co/BfMt6hx/photo-2023-02-19-15-43-35.jpg)
+![Image_form_catch_errors](https://i.ibb.co/BfMt6hx/photo-2023-02-19-15-43-35.jpg)
 
 ### Test project Get-Post
 
 [Demo](https://ernestofernandezua.github.io/react_test-project-post-get-token/)\
 [Code](https://github.com/ErnestoFernandezUA/react_test-project-post-get-token)\
 Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios\
-![photo_2023-02-19_15-51-29.jpg](https://i.ibb.co/Tt3Q0TQ/photo-2023-02-19-15-51-29.jpg)
+![Image_get_post](https://i.ibb.co/Tt3Q0TQ/photo-2023-02-19-15-51-29.jpg)
 
 ### Responsive Layout Eco Landing
 [Demo](https://ernestofernandezua.github.io/eco-landing/)
 [Code](https://github.com/ErnestoFernandezUA/eco-landing)
 Stack: HTML, SCSS, BEM
+![Image_eco](https://i.ibb.co/x2Fk8Bg/photo-2023-02-19-15-55-40.jpg)
 
 ##  Achievements
 - University Olympiads, competitions in Math, informatics, physics
