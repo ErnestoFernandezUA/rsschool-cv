@@ -18,27 +18,26 @@ Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
 **UKR/RUS:** native
 
 ### Stack
-JavaScript (ES2015 - 2019) 
-TypeScript, Jest
+**JavaScript:** (ES2015 - 2019), TypeScript, Jest
 React (Class/Hooks/Redux/Thunk/Toolkit/Saga)
 SOLID, FSD
 
-Layout 
+**Layout:**: 
 HTML5, CSS3, SASS(SCSS)
 Tailwind, Material-UI, Styled-components, Bootstrap
 
-Tools: 
+**Tools:** 
 Figma, REST API, Git, Photoshop, NPM, Eslint 
 VS Code, Chrome Developer Tools (incl. React)
 Webpack
 Windows, macOS, Unix
 Adobe Photoshop/Illustrator/3DMax
 
-Methodologies
+**Methodologies:**
 Pixel-perfect, BEM,
 Cross-browser and adaptive layout
 
-Algorithms
+**Algorithms:**
 Solved 200+ algorithmic tasks
 
 
