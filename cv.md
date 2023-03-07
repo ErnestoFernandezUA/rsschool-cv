@@ -22,19 +22,19 @@ Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
 `React(Class/Hooks/Redux/Thunk/Toolkit/Saga)`
 
 **Layout:**  
-`HTML5`, `CSS3`, `SASS(SCSS)`
-`Tailwind`, `Material-UI`, `Styled-components`, `Bootstrap`
+`HTML5` `CSS3` `SASS(SCSS)`
+`Tailwind` `Material-UI` `Styled-components` `Bootstrap`
 
 **Tools:**  
-`Figma`, `REST API`, `Git`, `NPM`, `Eslint`  
-`VS Code`, `Chrome Developer Tools (incl. React/Redux)`  
-`Webpack`, `Windows`, `macOS`, `Unix`
+`Figma` `REST API` `Git` `NPM` `Eslint`  
+`VS Code` `Chrome Developer Tools (incl. React/Redux)`  
+`Webpack` `Windows` `macOS` `Unix`
 `Adobe Photoshop/Illustrator/3DMax`
 
 **Methodologies:**  
-`Pixel-perfect`, `BEM`,
-`Cross-browser and adaptive layout`,
-`SOLID`, `FSD`
+`Pixel-perfect` `BEM`
+`Cross-browser and adaptive layout`
+`SOLID` `FSD`
 
 **Algorithms:**  
 `Solved 200+ algorithmic tasks`  
