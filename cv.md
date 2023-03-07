@@ -1,7 +1,7 @@
 # Ernesto Fernandez
 
 Frontend Developer
-Kyiv, Ukraine  Office/Remote 👨‍💻 Open to new proposition
+Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
 
 ## Contacts
 
@@ -13,9 +13,9 @@ Kyiv, Ukraine  Office/Remote 👨‍💻 Open to new proposition
 
 ## Hard skills
 
-#Education: Master’s Degree in Math, Taras Shevchenko National University of Kyiv#
-#English: upper-intermediate B2#
-#UKR/RUS: native#
+**Education: Master’s Degree in Math, Taras Shevchenko National University of Kyiv**
+**English: upper-intermediate B2**
+**UKR/RUS: native**
 
 JavaScript (ES2015 - 2019) 
 TypeScript, Jest
