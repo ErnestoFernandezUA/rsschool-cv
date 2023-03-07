@@ -85,53 +85,38 @@ Among clients were: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Food
 ### Calendar
 
 [Demo](https://ernestofernandezua.github.io/react_calendar/)
-
 [Code](https://github.com/ErnestoFernandezUA/react_calendar)
-
 [Loom](https://www.loom.com/share/a541611e36c04e469fd4b07c64c8a603)
-
-TypeScript, React, Redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components
+Stack: TypeScript, React, Redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components
 
 ![photo_2023-02-19_15-31-07.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1eece9f6-2f0c-4a96-bc34-999c3419b0bd/photo_2023-02-19_15-31-07.jpg)
 
 ### Shop with React Saga
-
 [Demo](https://ernestofernandezua.github.io/REACT_KITGLOBAL_TESTING_TASK/)
-
 [Code](https://github.com/ErnestoFernandezUA/REACT_KITGLOBAL_TESTING_TASK)
-
-TypeScript, React, Saga, Redux, toolkit, persist, axios, react-router-dom, axios, styled-components
+Stack: TypeScript, React, Saga, Redux, toolkit, persist, axios, react-router-dom, axios, styled-components
 
 ![photo_2023-03-01_07-56-45.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c26f170-7ca7-4cc8-ae45-99cfe391a2e9/photo_2023-03-01_07-56-45.jpg)
 
 ### Flags
 
 [Demo](https://ernestofernandezua.github.io/spa_react_styled-components/)
-
 [Code](https://github.com/ErnestoFernandezUA/spa_react_styled-components)
-
-TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components
-
+Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components
 ![photo_2023-02-19_15-42-36.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8fec0216-fc4f-4a38-958a-8652114dbbd7/photo_2023-02-19_15-42-36.jpg)
 
 ### Form catch errors
 
 [Demo](https://ernestofernandezua.github.io/react__test-scelty/)
-
 [Code](https://github.com/ErnestoFernandezUA/react__test-scelty)
-
-TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios
-
+Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios
 ![photo_2023-02-19_15-43-35.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/af15ec86-3240-4cb6-9ea9-ed67ff1a6f64/photo_2023-02-19_15-43-35.jpg)
 
 ### Test project Get-Post
 
 [Demo](https://ernestofernandezua.github.io/react_test-project-post-get-token/)
-
 [Code](https://github.com/ErnestoFernandezUA/react_test-project-post-get-token)
-
-TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios
-
+Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios
 ![photo_2023-02-19_15-51-29.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd303d17-9848-4d25-a265-63431355a772/photo_2023-02-19_15-51-29.jpg)
 
 ### Responsive Layout Eco Landing
@@ -145,9 +130,9 @@ Stack: HTML, SCSS, BEM
 - Climbing (Elbrus 2007)
 
 
-“I’m available for interesting projects. See me in action.”
+>>**“I’m available for interesting projects. See me in action.”**
 
 
-[mailto: ernesto.fernandez.job@gmail.com](mailto:ernesto.fernandez.job@gmail.com) 
+[send me email](mailto:ernesto.fernandez.job@gmail.com) 
 
 Thanks for reading! 👋
