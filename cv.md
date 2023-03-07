@@ -91,14 +91,15 @@ Stack: TypeScript, React, Redux, toolkit, thunk, persist, axios, react-router-do
 
 <details><summary>Shop with React Saga</summary><br/>
 
-[Demo](https://ernestofernandezua.github.io/REACT_KITGLOBAL_TESTING_TASK/)
-[Code](https://github.com/ErnestoFernandezUA/REACT_KITGLOBAL_TESTING_TASK)
-Stack: TypeScript, React, Saga, Redux, toolkit, persist, axios, react-router-dom, axios, styled-components
+- [Demo](https://ernestofernandezua.github.io/REACT_KITGLOBAL_TESTING_TASK/)
+- [Code](https://github.com/ErnestoFernandezUA/REACT_KITGLOBAL_TESTING_TASK)
+- Stack: TypeScript, React, Saga, Redux, toolkit, persist, axios, react-router-dom, axios, styled-components
 <br/>
-![Image_Saga](https://i.ibb.co/ZH1dDqC/photo-2023-03-01-07-56-45.jpg)
+- ![Image_Saga](https://i.ibb.co/ZH1dDqC/photo-2023-03-01-07-56-45.jpg)
 </details>
 
 <details><summary>Flags</summary><br/>
+
 [Demo](https://ernestofernandezua.github.io/spa_react_styled-components/)
 [Code](https://github.com/ErnestoFernandezUA/spa_react_styled-components)
 Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components
