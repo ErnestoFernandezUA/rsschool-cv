@@ -23,7 +23,7 @@ Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
 React (Class/Hooks/Redux/Thunk/Toolkit/Saga)
 SOLID, FSD
 
-**Layout:**: 
+**Layout:** 
 HTML5, CSS3, SASS(SCSS)
 Tailwind, Material-UI, Styled-components, Bootstrap
 
