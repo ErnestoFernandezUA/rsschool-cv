@@ -45,28 +45,22 @@ Solved 200+ algorithmic tasks
 
 ## Selected Work History
 
-from Sep 2021
 
-Frontend, freelance
+* from Sep 2021\
+  Frontend, freelance\
+  correct layouts, build forms, add routing spa, correct restAPI
 
-correct layouts, build forms, add routing spa, correct restAPI
-
-2015-2022
-
-Project: [Plove.kiev.ua](http://plove.kiev.ua/) (stopped)
-
-Client service, marketing research, logistics, buying, finance, Web, SMM, SEO,
-CRM.
-
-Technologies: Facebook/Instagram Ads Manager, telegram bots, WP, Tilda, BootStrap,
+* 2015-2022\
+  Project: [Plove.kiev.ua](http://plove.kiev.ua/) (stopped)\
+  Client service, marketing research, logistics, buying, finance, Web, SMM, SEO,
+CRM.\
+  Technologies: Facebook/Instagram Ads Manager, telegram bots, WP, Tilda, BootStrap,
 Popsters, LiveDune.
 
-2003-2009
-
-***[Starcom](https://publicisgroupe.com.ua/ua/brand/starcom/)  (2003-2007)  MPG Ukraine(2007-2009)***
-
-Responsibilities: Client service, Media buying, Media research, Out-of-home advertising.
-Among clients were: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods.
+* 2003-2009\
+[Starcom](https://publicisgroupe.com.ua/ua/brand/starcom/)(2003-2007), MPG Ukraine(2007-2009)\
+Responsibilities: Client services, Media buying, Media research, Out-of-home advertising.\
+Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other.
 
 
 > _My goal is to improve every day. I am very organized, responsible, hard-working, punctual,
@@ -85,7 +79,7 @@ Among clients were: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Food
    [Loom](https://www.loom.com/share/a541611e36c04e469fd4b07c64c8a603)
    Stack: TypeScript, React, Redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components
 
-![photo_2023-02-19_15-31-07.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1eece9f6-2f0c-4a96-bc34-999c3419b0bd/photo_2023-02-19_15-31-07.jpg)
+![calendar_image](https://imgur.com/oJ8FrtL)
 
 ### Shop with React Saga
 [Demo](https://ernestofernandezua.github.io/REACT_KITGLOBAL_TESTING_TASK/)
