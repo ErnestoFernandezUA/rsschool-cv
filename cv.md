@@ -18,9 +18,8 @@ Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
 **UKR/RUS:** native
 
 **JavaScript:**  
-`(ES2015 - 2019)`, `TypeScript`, `Jest`
+`(ES2015 - 2019)` `TypeScript` `Jest`
 `React(Class/Hooks/Redux/Thunk/Toolkit/Saga)`
-`SOLID`, `FSD`
 
 **Layout:**  
 `HTML5`, `CSS3`, `SASS(SCSS)`
@@ -28,21 +27,22 @@ Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
 
 **Tools:**  
 `Figma`, `REST API`, `Git`, `NPM`, `Eslint`  
-`VS Code`, `Chrome Developer Tools (incl. React)`  
+`VS Code`, `Chrome Developer Tools (incl. React/Redux)`  
 `Webpack`, `Windows`, `macOS`, `Unix`
 `Adobe Photoshop/Illustrator/3DMax`
 
 **Methodologies:**  
 `Pixel-perfect`, `BEM`,
-`Cross-browser and adaptive layout`
+`Cross-browser and adaptive layout`,
+`SOLID`, `FSD`
 
 **Algorithms:**  
 `Solved 200+ algorithmic tasks`  
-```
+
   > _I am a self-taught front-end developer looking for new professional opportunities. 
   > Having of good knowledge of JavaScript, Typescript, React, HTML, CSS, Preprocessor. 
   > I understand SEO, SMM and Google AdSense._
-```
+
 ## Selected Work History
 
 from Sep 2021
