@@ -12,7 +12,7 @@ Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
    - [telegram](https://t.me/ernestofernandez)  
 
 ## Hard skills
----
+
 **Education:** Master’s Degree in Math, Taras Shevchenko National University of Kyiv\
 **English:** upper-intermediate B2\
 **UKR/RUS:** native
@@ -38,6 +38,7 @@ Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
 
 **Algorithms:**  
 `Solved 200+ algorithmic tasks`  
+
 
   > _I am a self-taught front-end developer looking for new professional opportunities. 
   > Having of good knowledge of JavaScript, Typescript, React, HTML, CSS, Preprocessor. 
