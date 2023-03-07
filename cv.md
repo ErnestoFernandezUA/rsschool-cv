@@ -79,7 +79,7 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
    [Loom](https://www.loom.com/share/a541611e36c04e469fd4b07c64c8a603)
    Stack: TypeScript, React, Redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components
 
-![calendar_image](https://imgur.com/oJ8FrtL)
+![calendar_image](https://ibb.co/QYrLP21)
 
 ### Shop with React Saga
 [Demo](https://ernestofernandezua.github.io/REACT_KITGLOBAL_TESTING_TASK/)
