@@ -81,11 +81,11 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
     ![Image_calendar](https://i.ibb.co/VVxZjBX/photo-2023-02-19-15-31-07.jpg)
 
 ### Shop with React Saga
-[Demo](https://ernestofernandezua.github.io/REACT_KITGLOBAL_TESTING_TASK/)
-[Code](https://github.com/ErnestoFernandezUA/REACT_KITGLOBAL_TESTING_TASK)
-Stack: TypeScript, React, Saga, Redux, toolkit, persist, axios, react-router-dom, axios, styled-components
+[Demo](https://ernestofernandezua.github.io/REACT_KITGLOBAL_TESTING_TASK/)\
+[Code](https://github.com/ErnestoFernandezUA/REACT_KITGLOBAL_TESTING_TASK)\
+Stack: TypeScript, React, Saga, Redux, toolkit, persist, axios, react-router-dom, axios, styled-components\
 
-![photo_2023-03-01_07-56-45.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c26f170-7ca7-4cc8-ae45-99cfe391a2e9/photo_2023-03-01_07-56-45.jpg)
+![photo_2023-03-01_07-56-45.jpg](https://i.ibb.co/ZH1dDqC/photo-2023-03-01-07-56-45.jpg)
 
 ### Flags
 
