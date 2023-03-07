@@ -182,7 +182,7 @@ Stack: HTML, SCSS, BEM\
 ![climbing](https://i.ibb.co/5KBGhVF/DSC-0330.jpg)
 
 
->**“I’m available for interesting projects. See me in action.”**
+>_**I’m available for interesting projects. See me in action.**_
 
 
 [send me email](mailto:ernesto.fernandez.job@gmail.com) 
