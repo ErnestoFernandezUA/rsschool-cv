@@ -1,18 +1,17 @@
-Ernesto Fernandez
+# Ernesto Fernandez
 
 Frontend Developer
-
-Kyiv, Ukraine  🛫 Office/Remote 👨‍💻 Open to new proposition
+Kyiv, Ukraine  Office/Remote 👨‍💻 Open to new proposition
 
 ## Contacts
 
-- +38 095 919 18 03
-- [ernesto.fernandez.job@gmail.com](mailto:ernesto.fernandez.job@gmail.com)
-- [gitHub](https://github.com/ErnestoFernandezUA)
-- [linkedin](https://www.linkedin.com/in/ernesto-fernandez-15699714a/)
-- [telegram](https://t.me/ernestofernandez)
+   - +38 095 919 18 03
+   - [email](mailto:ernesto.fernandez.job@gmail.com)
+   - [gitHub](https://github.com/ErnestoFernandezUA)
+   - [linkedin](https://www.linkedin.com/in/ernesto-fernandez-15699714a/)
+   - [telegram](https://t.me/ernestofernandez)
 
-Hard skills
+## Hard skills
 
 Education: Master’s Degree in Math, Taras Shevchenko National University of Kyiv
 English: upper-intermediate B2
@@ -41,9 +40,9 @@ Cross-browser and adaptive layout
 Algorithms
 Solved 200+ algorithmic tasks
 
-I am a self-taught front-end developer looking for new professional opportunities. 
-Having of good knowledge of JavaScript, Typescript, React, HTML, CSS, Preprocessors. 
-I understand SEO, SMM and Google AdSense.
+> I am a self-taught front-end developer looking for new professional opportunities. 
+> Having of good knowledge of JavaScript, Typescript, React, HTML, CSS, Preprocessor. 
+> I understand SEO, SMM and Google AdSense.
 
 
 Selected Work History
@@ -72,16 +71,16 @@ Responsibilities: Client service, Media buying, Media research, Out-of-home adve
 Among clients were: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods.
 
 
-My goal is to improve every day. I am very organized, responsible, hard-working, punctual,
-honest, sociable, and able to work as a team person. Believe my Upper-Intermediate English
-and technical education background will help me to bring significant impact on projects.
-Furthermore, I quickly learn new information and easily adapt to any changes or
-requirements at work.
+> My goal is to improve every day. I am very organized, responsible, hard-working, punctual,
+> honest, sociable, and able to work as a team person. Believe my Upper-Intermediate English
+> and technical education background will help me to bring significant impact on projects.
+> Furthermore, I quickly learn new information and easily adapt to any changes or
+> requirements at work.
 
 
-# Pet Projects
+## Pet Projects
 
-## Calendar
++ Calendar
 
 [Demo](https://ernestofernandezua.github.io/react_calendar/)
 
@@ -93,7 +92,7 @@ TypeScript, React, Redux, toolkit, thunk, persist, axios, react-router-dom, axio
 
 ![photo_2023-02-19_15-31-07.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1eece9f6-2f0c-4a96-bc34-999c3419b0bd/photo_2023-02-19_15-31-07.jpg)
 
-## Shop with React Saga
++ Shop with React Saga
 
 [Demo](https://ernestofernandezua.github.io/REACT_KITGLOBAL_TESTING_TASK/)
 
