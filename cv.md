@@ -92,7 +92,7 @@ Stack: TypeScript, React, Saga, Redux, toolkit, persist, axios, react-router-dom
 [Demo](https://ernestofernandezua.github.io/spa_react_styled-components/)
 [Code](https://github.com/ErnestoFernandezUA/spa_react_styled-components)
 Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components
-![Image_flags](https://i.ibb.co/GfDg66H/photo-2023-02-19-15-42-36.jpg)
+![Image_flags](https://i.ibb.co/dtrvYLY/photo-2023-02-19-15-42-36.jpg)
 
 ### Form catch errors
 
