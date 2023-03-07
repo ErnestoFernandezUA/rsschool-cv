@@ -119,6 +119,8 @@ Stack: HTML, SCSS, BEM\
 - Semi-professional footballer & coach
 - Climbing (Elbrus 2007)
 
+![climbing](https://i.ibb.co/5KBGhVF/DSC-0330.jpg)
+
 
 >**“I’m available for interesting projects. See me in action.”**
 
