@@ -10,7 +10,6 @@ Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
    - [linkedin](https://www.linkedin.com/in/ernesto-fernandez-15699714a/)
    - [telegram](https://t.me/ernestofernandez)  
 
-[========]
 
 ## Hard skills
 
@@ -41,13 +40,10 @@ Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
 Solved 200+ algorithmic tasks  
 
 
-[========]
+> _I am a self-taught front-end developer looking for new professional opportunities. 
+> Having of good knowledge of JavaScript, Typescript, React, HTML, CSS, Preprocessor. 
+> I understand SEO, SMM and Google AdSense._
 
-  > _I am a self-taught front-end developer looking for new professional opportunities. 
-  > Having of good knowledge of JavaScript, Typescript, React, HTML, CSS, Preprocessor. 
-  > I understand SEO, SMM and Google AdSense._
-
-[========]
 
 ## Selected Work History
 
@@ -68,14 +64,12 @@ Responsibilities: Client services, Media buying, Media research, Out-of-home adv
 Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other.
 
 
-[========]
 > _My goal is to improve every day. I am very organized, responsible, hard-working, punctual,
 > honest, sociable, and able to work as a team person. Believe my Upper-Intermediate English
 > and technical education background will help me to bring significant impact on projects.
 > Furthermore, I quickly learn new information and easily adapt to any changes or
 > requirements at work._
 
-[========]
 
 
 ## Pet Projects
@@ -179,7 +173,6 @@ Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-do
 Stack: HTML, SCSS, BEM\
 ![Image_eco](https://i.ibb.co/x2Fk8Bg/photo-2023-02-19-15-55-40.jpg) -->
 
-[========]
 
 ##  Achievements
 - University Olympiads, competitions in Math, informatics, physics
@@ -188,10 +181,9 @@ Stack: HTML, SCSS, BEM\
 
 ![climbing](https://i.ibb.co/5KBGhVF/DSC-0330.jpg)
 
-[========]
+
 >**“I’m available for interesting projects. See me in action.”**
 
-[========]
 
 [send me email](mailto:ernesto.fernandez.job@gmail.com) 
 
