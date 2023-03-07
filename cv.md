@@ -19,7 +19,7 @@ Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
 
 ### Stack
 **JavaScript:**
-   * (ES2015 - 2019), TypeScript, Jest
+(ES2015 - 2019), TypeScript, Jest
 React (Class/Hooks/Redux/Thunk/Toolkit/Saga)
 SOLID, FSD
 
