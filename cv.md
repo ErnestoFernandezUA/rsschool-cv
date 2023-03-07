@@ -106,7 +106,7 @@ Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-do
 [Demo](https://ernestofernandezua.github.io/react_test-project-post-get-token/)\
 [Code](https://github.com/ErnestoFernandezUA/react_test-project-post-get-token)\
 Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios\
-![photo_2023-02-19_15-51-29.jpg](https://i.ibb.co/J3XfXJH/photo-2023-02-19-15-51-29.jpg)
+![photo_2023-02-19_15-51-29.jpg](https://i.ibb.co/Tt3Q0TQ/photo-2023-02-19-15-51-29.jpg)
 
 ### Responsive Layout Eco Landing
 [Demo](https://ernestofernandezua.github.io/eco-landing/)
