@@ -82,7 +82,7 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
 <br/>
 
 <!-- - ![Image_calendar](https://i.ibb.co/VVxZjBX/photo-2023-02-19-15-31-07.jpg) -->
-- <img src="https://i.ibb.co/VVxZjBX/photo-2023-02-19-15-31-07.jpg"  width="600" height="300">
+- <img src="https://i.ibb.co/VVxZjBX/photo-2023-02-19-15-31-07.jpg"  width="600">
 </details>
 
 <details><summary>Shop with React Saga</summary><br/>
