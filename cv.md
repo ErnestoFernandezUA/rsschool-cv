@@ -146,7 +146,6 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
 
 ```js
 
-"use strict";
 
 const someObj = {
   name1: 'first',
@@ -170,30 +169,27 @@ const someObj = {
 }
 
 const someInstance = {
-  name1: undefined,
-  name2: undefined,
-  name3: undefined,
+  name1: undefined, name2: undefined, name3: undefined,
 };
 
 function searchInstanceInObject(object, instance) {
   const result = [];
-  const arrayOfKeys = Object.getOwnPropertyNames(instance);
-  let findStringKey = false;
+  let isCreateExample = false;
   
-  for (let key in object) {
-    if (arrayOfKeys.includes(key) && !findStringKey) {
-      const addPoint = {};
+  for (const key in object) {
+    if ((key in instance) && !isCreateExample) {
+      const example = {};
 
-      for (let findKey of arrayOfKeys) {
-        if (Object.getOwnPropertyNames(object).includes(findKey)) {
-          addPoint[findKey] = object[findKey];
+      for (const instanceKey in instance) {
+        if (instanceKey in object) {
+          example[instanceKey] = object[instanceKey];
         } else {
-          addPoint[findKey] = undefined;
+          example[instanceKey] = undefined;
         };
       }
 
-      result.push(addPoint);
-      findStringKey = true;
+      result.push(example);
+      isCreateExample = true;
     }
 
     if (typeof object[key] === 'object') {
