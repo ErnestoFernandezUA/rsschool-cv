@@ -81,8 +81,7 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
 - Stack: TypeScript, React, Redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components
 <br/>
 
-<!-- - ![Image_calendar](https://i.ibb.co/VVxZjBX/photo-2023-02-19-15-31-07.jpg) -->
-- <img src="https://i.ibb.co/VVxZjBX/photo-2023-02-19-15-31-07.jpg"  width="600">
+<img src="https://i.ibb.co/VVxZjBX/photo-2023-02-19-15-31-07.jpg"  width="600">
 </details>
 
 <details><summary>Shop with React Saga</summary><br/>
@@ -92,8 +91,7 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
 - Stack: TypeScript, React, Saga, Redux, toolkit, persist, axios, react-router-dom, axios, styled-components
 <br/>
 
-- ![Image_Saga](https://i.ibb.co/ZH1dDqC/photo-2023-03-01-07-56-45.jpg)
-- ![Image_Saga](https://i.ibb.co/ZhMXmXb/photo-2023-03-01-07-56-45.jpg)
+<img src="https://i.ibb.co/ZH1dDqC/photo-2023-03-01-07-56-45.jpg"  width="600">
 
 </details>
 
@@ -104,7 +102,7 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
 - Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components
 <br/>
 
-![Image_flags](https://i.ibb.co/dtrvYLY/photo-2023-02-19-15-42-36.jpg)
+<img src="https://i.ibb.co/dtrvYLY/photo-2023-02-19-15-42-36.jpg"  width="600">
 </details>
 
 <details><summary>Form catch errors</summary><br/>
@@ -114,7 +112,7 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
 - Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios
 <br/>
 
-- ![Image_form_catch_errors](https://i.ibb.co/BfMt6hx/photo-2023-02-19-15-43-35.jpg)
+<img src="https://i.ibb.co/BfMt6hx/photo-2023-02-19-15-43-35.jpg"  width="600">
 </details>
 
 <details><summary>Test project Get-Post</summary><br/>
@@ -124,7 +122,7 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
 - Stack: TypeScript, React, redux, toolkit, thunk, persist, axios, react-router-dom, axios
 <br/>
 
-- ![Image_get_post](https://i.ibb.co/Tt3Q0TQ/photo-2023-02-19-15-51-29.jpg)
+<img src="https://i.ibb.co/Tt3Q0TQ/photo-2023-02-19-15-51-29.jpg"  width="600">
 </details>
 
 <details><summary>Responsive Layout Eco Landing</summary><br/>
@@ -132,9 +130,9 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
 - [Demo](https://ernestofernandezua.github.io/eco-landing/)\
 - [Code](https://github.com/ErnestoFernandezUA/eco-landing)\
 - Stack: HTML, SCSS, BEM\
-
 <br/>
-- ![Image_eco](https://i.ibb.co/x2Fk8Bg/photo-2023-02-19-15-55-40.jpg)
+
+<img src="https://i.ibb.co/x2Fk8Bg/photo-2023-02-19-15-55-40.jpg"  width="600">
 </details>
 
 
