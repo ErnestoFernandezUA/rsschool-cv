@@ -170,7 +170,9 @@ const someObj = {
 }
 
 const someInstance = {
-  name1: undefined, name2: undefined, name3: undefined,
+  name1: undefined,
+  name2: undefined,
+  name3: undefined,
 };
 
 function searchInstanceInObject(object, instance) {
