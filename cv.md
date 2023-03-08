@@ -81,7 +81,8 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
 - Stack: TypeScript, React, Redux, toolkit, thunk, persist, axios, react-router-dom, axios, styled-components
 <br/>
 
-- ![Image_calendar](https://i.ibb.co/VVxZjBX/photo-2023-02-19-15-31-07.jpg)
+<!-- - ![Image_calendar](https://i.ibb.co/VVxZjBX/photo-2023-02-19-15-31-07.jpg) -->
+- <img src="https://i.ibb.co/VVxZjBX/photo-2023-02-19-15-31-07.jpg"  width="600" height="300">
 </details>
 
 <details><summary>Shop with React Saga</summary><br/>
