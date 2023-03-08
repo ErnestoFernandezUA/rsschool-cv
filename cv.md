@@ -141,7 +141,7 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
 
 <details><summary>Example JS task</summary><br/>
 
-**description:** the function looks for instances in an object according to some pattern
+**description:** the function return array of instances in an object according to some pattern
 
 ```js
 const someObj = {
