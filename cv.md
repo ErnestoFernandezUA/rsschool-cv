@@ -4,12 +4,12 @@ Frontend Developer
 Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
 
 ## Contacts
-   - +38 095 919 18 03
+   - **phone:** +38 095 919 18 03
    - [email](mailto:ernesto.fernandez.job@gmail.com)
    - [gitHub](https://github.com/ErnestoFernandezUA)
    - [linkedin](https://www.linkedin.com/in/ernesto-fernandez-15699714a/)
    - [telegram](https://t.me/ernestofernandez)
-   - [discord](Ernesto(@ErnestoFernandezUA))  
+   - **discord:** Ernesto(@ErnestoFernandezUA)  
 
 
 ## Hard skills
