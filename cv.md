@@ -92,6 +92,8 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
 <br/>
 
 - ![Image_Saga](https://i.ibb.co/ZH1dDqC/photo-2023-03-01-07-56-45.jpg)
+- ![Image_Saga](https://i.ibb.co/ZhMXmXb/photo-2023-03-01-07-56-45.jpg)
+
 </details>
 
 <details><summary>Flags</summary><br/>
