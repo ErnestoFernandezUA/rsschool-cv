@@ -148,50 +148,6 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
 
 "use strict";
 
-function searchInstanceInObject(object, instance) {
-  const arrayOfKeysInstance = Object.getOwnPropertyNames(instance);
-  const result = [];
-
-  console.log(object);
-  console.log('');
-
-  function findKeysInObj(object, arrayOfKeys) {
-    let findStringKey = false;
-    console.log(Object.getOwnPropertyNames(object));
-    console.log('start searching....');
-    
-    for (let key in object) {
-      if (arrayOfKeys.includes(key) && !findStringKey) {
-        const addPoint = {};
-
-        for (let findKey of arrayOfKeys) {
-          if (Object.getOwnPropertyNames(object).includes(findKey)) {
-            addPoint[findKey] = object[findKey];
-          } else {
-            addPoint[findKey] = undefined;
-          };
-        }
-
-        console.log('addPoint:', addPoint);
-        console.log('');
-
-        result.push(addPoint);
-        findStringKey = true;
-      }
-
-      if (typeof object[key] === 'object') {
-        console.log('/case object/');
-        findKeysInObj(object[key], arrayOfKeys);
-      }
-    }
-  }
-
-  findKeysInObj(object, arrayOfKeysInstance);
-
-  console.log(result);
-  return result;
-}
-
 const someObj = {
   name1: 'first',
   name3: 'some',
@@ -213,12 +169,41 @@ const someObj = {
   name2: 'some',
 }
 
-const someArrayOfKeys = {
+const someInstance = {
   name1: undefined, name2: undefined, name3: undefined,
 };
 
-// findKeysInObject(someObj, someArrayOfKeys);
-console.log(searchInstanceInObject(someObj, someArrayOfKeys));
+function searchInstanceInObject(object, instance) {
+  const result = [];
+  const arrayOfKeys = Object.getOwnPropertyNames(instance);
+  let findStringKey = false;
+  
+  for (let key in object) {
+    if (arrayOfKeys.includes(key) && !findStringKey) {
+      const addPoint = {};
+
+      for (let findKey of arrayOfKeys) {
+        if (Object.getOwnPropertyNames(object).includes(findKey)) {
+          addPoint[findKey] = object[findKey];
+        } else {
+          addPoint[findKey] = undefined;
+        };
+      }
+
+      result.push(addPoint);
+      findStringKey = true;
+    }
+
+    if (typeof object[key] === 'object') {
+      result.push(...searchInstanceInObject(object[key], instance));
+    }
+  }
+
+  console.log(result);
+  return result;
+}
+
+searchInstanceInObject(someObj, someInstance);
 ```
 
 </details>
