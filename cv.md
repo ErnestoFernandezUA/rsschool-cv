@@ -8,7 +8,8 @@ Kyiv, Ukraine 🌎 Office/Remote 👨‍💻 Open to new proposition
    - [email](mailto:ernesto.fernandez.job@gmail.com)
    - [gitHub](https://github.com/ErnestoFernandezUA)
    - [linkedin](https://www.linkedin.com/in/ernesto-fernandez-15699714a/)
-   - [telegram](https://t.me/ernestofernandez)  
+   - [telegram](https://t.me/ernestofernandez)
+   - [discord](Ernesto(@ErnestoFernandezUA))  
 
 
 ## Hard skills
@@ -62,6 +63,8 @@ Popsters, LiveDune.
 [Starcom](https://publicisgroupe.com.ua/ua/brand/starcom/)(2003-2007), MPG Ukraine(2007-2009)\
 Responsibilities: Client services, Media buying, Media research, Out-of-home advertising.\
 Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other.
+
+
 
 
 > _My goal is to improve every day. I am very organized, responsible, hard-working, punctual,
