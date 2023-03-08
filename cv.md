@@ -127,8 +127,8 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
 
 <details><summary>Responsive Layout Eco Landing</summary><br/>
 
-- [Demo](https://ernestofernandezua.github.io/eco-landing/)\
-- [Code](https://github.com/ErnestoFernandezUA/eco-landing)\
+- [Demo](https://ernestofernandezua.github.io/eco-landing/)
+- [Code](https://github.com/ErnestoFernandezUA/eco-landing)
 - Stack: HTML, SCSS, BEM\
 <br/>
 
