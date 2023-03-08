@@ -144,9 +144,9 @@ Clients: Philip Morris, Kyivstar, Avon, Intertop, Beeline, Kraft Foods and other
 
 <br/>
 
+**description:** the function looks for instances in an object according to some pattern
+
 ```js
-
-
 const someObj = {
   name1: 'first',
   name3: 'some',
@@ -169,7 +169,9 @@ const someObj = {
 }
 
 const someInstance = {
-  name1: undefined, name2: undefined, name3: undefined,
+  name1: undefined,
+  name2: undefined,
+  name3: undefined,
 };
 
 function searchInstanceInObject(object, instance) {
